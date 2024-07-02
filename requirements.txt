@@ -4,4 +4,7 @@
 # Flask Framework
 Flask
 
+
 # Flask Packages
+flask-sqlalchemy
+flask-migrate
